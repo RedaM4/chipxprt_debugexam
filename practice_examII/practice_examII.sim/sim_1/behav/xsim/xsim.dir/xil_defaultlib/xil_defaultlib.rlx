@@ -1,0 +1,18 @@
+0.6
+2019.1
+May 24 2019
+14:51:52
+/home/it/chipxprt/DSD/-CX-203-lab2/4-bit _adder.sv,1732619361,systemVerilog,,/home/it/chipxprt/DSD/-CX-203-lab2/Half_adder.sv,,fourbitadder,,,,,,,,
+/home/it/chipxprt/DSD/-CX-203-lab2/Half_adder.sv,1731575297,systemVerilog,,/home/it/chipxprt/DSD/practice_examII/practice_examII.srcs/sources_1/new/Task4.sv,,half_adder,,,,,,,,
+/home/it/chipxprt/DSD/-CX-203-lab2/full_adder.sv,1731575297,systemVerilog,,/home/it/chipxprt/DSD/practice_examII/practice_examII.srcs/sim_1/new/Task4_ts.sv,,full_adder,,,,,,,,
+/home/it/chipxprt/DSD/K2/K2_project_viv/see/see.srcs/sources_1/imports/new/D_flip_2.sv,1732617280,systemVerilog,,/home/it/chipxprt/DSD/K2/K2_project_viv/see/see.srcs/sources_1/imports/new/Register1.sv,,D_flip_2,,,,,,,,
+/home/it/chipxprt/DSD/K2/K2_project_viv/see/see.srcs/sources_1/imports/new/Register1.sv,1732312282,systemVerilog,,/home/it/chipxprt/DSD/practice_examII/practice_examII.srcs/sources_1/new/Task2.sv,,Register1,,,,,,,,
+/home/it/chipxprt/DSD/practice_examII/practice_examII.sim/sim_1/behav/xsim/glbl.v,1558713910,verilog,,,,glbl,,,,,,,,
+/home/it/chipxprt/DSD/practice_examII/practice_examII.srcs/sim_1/new/Task1_ts.sv,1732616959,systemVerilog,,,,Task1_ts,,,,,,,,
+/home/it/chipxprt/DSD/practice_examII/practice_examII.srcs/sim_1/new/Task2_ts.sv,1732618641,systemVerilog,,,,Task2_ts,,,,,,,,
+/home/it/chipxprt/DSD/practice_examII/practice_examII.srcs/sim_1/new/Task3_ts.sv,1732619455,systemVerilog,,,,Task3_ts,,,,,,,,
+/home/it/chipxprt/DSD/practice_examII/practice_examII.srcs/sim_1/new/Task4_ts.sv,1732622346,systemVerilog,,,,Task4_ts,,,,,,,,
+/home/it/chipxprt/DSD/practice_examII/practice_examII.srcs/sources_1/new/Task1.sv,1732617520,systemVerilog,,/home/it/chipxprt/DSD/practice_examII/practice_examII.srcs/sim_1/new/Task1_ts.sv,,Task1,,,,,,,,
+/home/it/chipxprt/DSD/practice_examII/practice_examII.srcs/sources_1/new/Task2.sv,1732618740,systemVerilog,,/home/it/chipxprt/DSD/practice_examII/practice_examII.srcs/sim_1/new/Task2_ts.sv,,Task2,,,,,,,,
+/home/it/chipxprt/DSD/practice_examII/practice_examII.srcs/sources_1/new/Task3.sv,1732619152,systemVerilog,,/home/it/chipxprt/DSD/-CX-203-lab2/full_adder.sv,,Task3,,,,,,,,
+/home/it/chipxprt/DSD/practice_examII/practice_examII.srcs/sources_1/new/Task4.sv,1732622523,systemVerilog,,/home/it/chipxprt/DSD/-CX-203-lab2/full_adder.sv,,Task4,,,,,,,,

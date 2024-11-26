@@ -1,0 +1,13 @@
+# compile verilog/system verilog design source files
+sv xil_defaultlib  \
+"../../../../../-CX-203-lab2/4-bit _adder.sv" \
+"../../../../../-CX-203-lab2/Half_adder.sv" \
+"../../../../practice_examII.srcs/sources_1/new/Task3.sv" \
+"../../../../../-CX-203-lab2/full_adder.sv" \
+"../../../../practice_examII.srcs/sim_1/new/Task3_ts.sv" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
